@@ -1,3 +1,3 @@
 # cloudflare-stream-examples
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/cloudflare-templates-qvrtkv)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/cloudflare-stream-examples)
