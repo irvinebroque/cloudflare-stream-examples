@@ -2,6 +2,7 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
+    "dev": "WRANGLER_SEND_METRICS=false wrangler pages dev examples --local",
     "start-stackblitz": "WRANGLER_SEND_METRICS=false wrangler pages dev examples --local"
   },
   "devDependencies": {
