@@ -10,6 +10,6 @@
     "@types/service-worker-mock": "^2.0.1",
     "service-worker-mock": "^2.0.5",
     "tsm": "^2.2.1",
-    "wrangler": "2.0.23"
+    "wrangler": "2.20.2"
   }
 }
